@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/joeyciechanowicz/if-vs-switch/issues"
   },
-  "homepage": "https://github.com/joeyciechanowicz/if-vs-switch#readme"
+  "homepage": "https://github.com/joeyciechanowicz/if-vs-switch#readme",
+  "dependencies": {
+    "asciichart": "^1.5.25"
+  }
 }
