@@ -6,4 +6,4 @@ See [cases.js](cases.js) for examples of the different test cases.
 
 # Results
 
-
+![Results graph](results.png)
